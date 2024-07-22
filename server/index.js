@@ -6,7 +6,7 @@ const app = express();
 const cors = require('cors');
 
 const corsOptions ={
-  origin:'https://sujita7.github.io/BurgerBiteF/', 
+  origin:'https://sujita7.github.io', 
   credentials:true,            //access-control-allow-credentials:true
   optionSuccessStatus:200
 }
